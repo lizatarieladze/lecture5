@@ -1,9 +1,7 @@
-body{
-    padding: 54px 52px;
-}
-
-header{
+.container{
     margin-bottom: 52px;
+    margin-left:52px;
+    margin-top: 54px;
 }
 
 .htmllogo{
@@ -11,6 +9,7 @@ header{
     vertical-align: middle;
 	margin-right: 60px;
 }
+
 a{
     text-decoration: none;
     margin-right: 87px;
@@ -120,7 +119,10 @@ article{
 }
 
 .section4{
-    margin-bottom: 91px;
+
+    margin-bottom: 52px;
+    margin-left:52px;
+    margin-top: 54px;
 }
 
 .container1{
@@ -129,6 +131,9 @@ article{
     margin-bottom: 120px;
 }
 
+.container2{
+    margin-left: 15px;
+}
 
 .section1{
     margin-left: 194px;
