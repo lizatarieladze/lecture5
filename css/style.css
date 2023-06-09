@@ -1,0 +1,263 @@
+body{
+    padding: 54px 52px;
+}
+
+header{
+    margin-bottom: 52px;
+}
+
+.htmllogo{
+    display: inline-block;
+    vertical-align: middle;
+	margin-right: 60px;
+}
+a{
+    text-decoration: none;
+    margin-right: 87px;
+    width: 150px;
+    height: 34px;
+
+    font-family: 'FiraGO';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+
+    color: #8D81FF;
+}
+
+ul{
+    list-style-type: none;
+}
+
+nav{
+    display: inline-block;    
+    vertical-align: middle;
+}
+
+li{
+    display: inline-block;
+
+}
+
+.index{
+    color: darkblue;
+}
+
+.newscolor{
+    color: darkblue;
+}
+
+.contactcolor{
+    color: darkblue;
+}
+.box{
+    width: 44px;
+	height: 44px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 34px;
+	padding: 12px;
+	margin-bottom: 18px;
+
+}
+
+h1{
+    font-family: 'BPG Nino Mkhedruli';
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    color: #8D81FF;
+
+}
+
+h2{
+    font-family: 'BPG Square Banner Caps 2013';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #4E6FAE;
+}
+
+.articleimg{
+    margin-right: 66px;
+    display: inline-block;
+    width: 517px;
+    height: 350px;
+}
+
+.articleimg1{
+    width: 517px;
+    height: 350px;
+}
+
+.pbox {
+	width: 778px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+p {
+	font-family: 'ALK Sanet';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #4E6FAE;
+}
+
+
+article{
+    margin-bottom: 167px;
+}
+
+.fblogo{
+    margin-right: 41px;
+}
+
+.linelogo{
+    margin-right: 41px;
+}
+
+.section4{
+    margin-bottom: 91px;
+}
+
+.section1{
+    margin-left: 194px;
+    font-weight: 700;
+    margin-bottom: 26px;
+    display: inline-block;
+}
+
+.sectionimage{
+    margin-left: 18px;
+    vertical-align: middle;
+    height: 30px;
+    display: inline-block;
+    margin-right: 18px;
+}
+
+.section2{
+    font-size: 26px;
+    line-height: 31px;
+    color: #4E6FAE;
+    display: inline-block;
+}
+
+.newsh1{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #3F4145;
+    margin-left: 23px;
+    margin-top: 21px;
+}
+
+.newsp{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #7E8898;
+    display: inline-block;
+    height: 95px;
+    width: 335px;
+}
+
+
+.newslogo{
+    display: inline-block;
+    margin-left: 36px;
+}
+
+.newsbox{
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    margin-left: 194px;
+    display: inline-block;
+    margin-right: 52px;
+
+}
+
+.newsbox1{
+    width: 500px;
+    height: 192px;
+    background: #E7E7E7;
+    display: inline-block;
+}
+
+.ft1{
+    margin-left: 194px;
+}
+
+
+.contacth1{
+    font-weight: 700;
+    font-size: 36px;
+    color: #4E6FAE;
+    margin-left: 162px;
+    padding-top: 93px;
+}
+
+.contact{
+    background-color: #E7E7E7;
+    width: 1450px;
+    height: 535px;
+    margin-bottom: 40px ;
+}
+
+.contactbox{
+    display: inline-block;
+    margin-right: 40px;
+    margin-bottom: 455px;
+    vertical-align: top;
+
+}
+
+.contactp1{
+    color: #7E8898;
+    display: inline-block;
+    margin-top: 27px;    
+    margin-bottom: 23px;
+    margin-left: 162px;
+}
+
+.contactp2{
+    color: #7E8898;
+    display: inline-block;  
+    margin-bottom: 23px;
+    margin-left: 162px;
+}
+
+.contactp3{
+    color: #7E8898;
+    display: inline-block;  
+    margin-bottom: 23px;
+    margin-left: 162px;
+
+}
+
+.map{
+    display: inline-block;
+    width: 7px;
+    height: 344px;
+    margin-top: 90px;
+}
+
+
+
+.fblogo1{ 
+    margin-top: 104px;
+    margin-right: 41px;
+    margin-left: 96;
+   
+}
+
+.linelogo1{
+    margin-right: 41px;
+    margin-left: 96;
+}
+
