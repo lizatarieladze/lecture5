@@ -126,7 +126,9 @@ article{
 .container1{
     width: 1052px;
 	margin: 0 auto;
+    margin-bottom: 120px;
 }
+
 
 .section1{
     margin-left: 194px;
@@ -248,9 +250,8 @@ article{
 
 .contact{
     background-color: #E7E7E7;
-    width: 1450px;
     height: 535px;
-    margin-bottom: 40px ;
+    margin-bottom: 40px;
 }
 
 .contactbox{
@@ -286,8 +287,8 @@ article{
 
 .map{
     display: inline-block;
-    width: 7px;
-    height: 344px;
+    width: 744px;
+    height: 366px;
     margin-top: 90px;
 }
 
