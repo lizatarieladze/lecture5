@@ -119,9 +119,8 @@ article{
 }
 
 .section4{
-
     margin-bottom: 52px;
-    margin-left:52px;
+    /* margin-left:52px; */
     margin-top: 54px;
 }
 
@@ -132,7 +131,7 @@ article{
 }
 
 .container2{
-    margin-left: 15px;
+    margin-left: 38px;
 }
 
 .section1{
@@ -241,7 +240,7 @@ article{
 }
 
 .ft1{
-    margin-left: 194px;
+    margin-left: 232px;
 }
 
 
@@ -309,5 +308,10 @@ article{
 .linelogo1{
     margin-right: 41px;
     margin-left: 96;
+}
+
+.ft2{
+    margin-left: 92px;
+    margin-top: 104px;
 }
 
